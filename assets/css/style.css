@@ -61,7 +61,7 @@ footer div {
     text-align: right;
 }
 
-footer a{
+footer a {
     color: #024e76;
 }
 
@@ -74,6 +74,7 @@ section{
     height: 600px;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 .hero-form {
