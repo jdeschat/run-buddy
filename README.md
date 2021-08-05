@@ -8,6 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+![alt](https://github.com/jdeschat/run-buddy/blob/main/assets/images/run-buddy.png)
 https://jdeschat.github.io/run-buddy/
 
 ## Contribution
